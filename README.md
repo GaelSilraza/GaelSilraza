@@ -2,7 +2,7 @@
 
 Experienced in a wide range of technologies and agile methodologies, I specialize in developing management systems, task automation, and monitoring solutions for various industries.
 
-## Technologies I Excel In
+## Technologies I have experience in
 
 - **Languages:** JavaScript, TypeScript, Python
 - **Frameworks:** Django, React.js, Node.js, Express.js, Angular, Hapi.js, Flask, React Native
